@@ -58,8 +58,17 @@
 
 ---
 
-<h2 align="center">📊 Statistiques GitHub</h2>
+### 📜 Mes documents
 
+📄 **Mon CV :**  
+[![CV PDF](https://img.shields.io/badge/Télécharger%20CV-4FC3F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rafiki-aymane-ar/rafiki-aymane-ar/raw/main/CV_Rafiki_Aymane.pdf)
+
+🏅 **Certificat :**  
+[![Certificat freeCodeCamp](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](https://github.com/rafiki-aymane-ar/rafiki-aymane-ar/raw/main/Certificate_freeCodeCamp.pdf)
+
+---
+
+<h2 align="center">📊 Statistiques GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafiki-aymane-ar&show_icons=true&theme=tokyonight&hide_border=true" 
@@ -69,9 +78,6 @@
 </p>
 
 <br clear="both"/>
-
----
-
 
 ---
 
