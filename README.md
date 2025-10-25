@@ -60,9 +60,12 @@
 
 <h2 align="center">📊 Statistiques GitHub</h2>
 
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafiki-aymane-ar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiki-aymane-ar&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiki-aymane-ar&show_icons=true&theme=tokyonight&hide_border=true" 
+       width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiki-aymane-ar&layout=compact&theme=tokyonight&hide_border=true" 
+       width="48%" alt="Top Languages"/>
 </p>
 
 <br clear="both"/>
