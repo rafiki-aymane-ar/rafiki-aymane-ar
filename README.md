@@ -61,10 +61,10 @@
 ### 📜 Mes documents
 
 📄 **Mon CV :**  
-[![CV PDF](https://img.shields.io/badge/Télécharger%20CV-4FC3F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Python_Essentials_1_certificate.pdf)
+[![CV PDF](https://img.shields.io/badge/Télécharger%20CV-4FC3F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Rafiki_Aymane_DD.pdf)
 
 🏅 **Certificat :**  
-[![Certificat freeCodeCamp](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](CV_Rafiki_Aymane_DD.pdf)
+[![Certificat freeCodeCamp](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Python_Essentials_1_certificate.pdf)
 
 ---
 
