@@ -58,7 +58,8 @@ Stagiaire en **Développement Web Full Stack** au CFPMS Hay Hassani II, je suis 
 
 ---
 
-## � Statistiques
+<!--
+## 📈 Statistiques
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafiki-aymane-ar&show_icons=true&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=8b949e&icon_color=4FC3F7" width="48%" />
@@ -66,6 +67,7 @@ Stagiaire en **Développement Web Full Stack** au CFPMS Hay Hassani II, je suis 
 </div>
 
 <br />
+-->
 
 <div align="center">
   <small><em>« Code. Learn. Improve. Repeat. »</em></small>
